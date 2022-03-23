@@ -1,3 +1,3 @@
-# IBM_DATA_SCIENCE_CAPSTONE_GIUSEPPE_PALERMINO
-## IBM_Data_Science_Capstone_Project:
-### SpaceX_Falcon_9
+# IBM DATA SCIENCE CAPSTONE
+## SpaceX Falcon 9
+### By Giuseppe Palermino
